@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Term:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Iosevka Term:pixelsize=24:antialias=true:autohint=true";
 
 /* options to disable bold, italic and roman fonts globally */
 int disablebold = 1;
