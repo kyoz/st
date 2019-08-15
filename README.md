@@ -3,7 +3,8 @@ st - simple (suckless) terminal (fork)
 
 ## Patchs
 
-- [st-disable-bold-italic-fonts-0.8.2.diff](https://st.suckless.org/patches/disable_bold_italic_fonts/) - Add options to disable bold, italic
+- [st-disable-bold-italic-fonts (0.8.2)](https://st.suckless.org/patches/disable_bold_italic_fonts/) - Add options to disable bold, italic
+- [st-hidecursor (0.8.1)](https://st.suckless.org/patches/hidecursor/) - Hide the X cursor whenever a key is pressed...
 - [purify theme](https://github.com/kyoz/purify/tree/master/st) - Make st look more vibrant xD
 
 ## Requirements
