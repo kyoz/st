@@ -3,9 +3,10 @@ st - simple (suckless) terminal (fork)
 
 ## Patchs
 
-- [st-alpha (0.8.2)](https://st.suckless.org/patches/alpha/) - Background opacity support
-- [st-disable-bold-italic-fonts (0.8.2)](https://st.suckless.org/patches/disable_bold_italic_fonts/) - Add options to disable bold, italic
-- [st-hidecursor (0.8.1)](https://st.suckless.org/patches/hidecursor/) - Hide the X cursor whenever a key is pressed...
+- [st-alpha](https://st.suckless.org/patches/alpha/) - Background opacity support
+- [st-disable-bold-italic-fonts](https://st.suckless.org/patches/disable_bold_italic_fonts/) - Add options to disable bold, italic
+- [st-hidecursor](https://st.suckless.org/patches/hidecursor/) - Hide the X cursor whenever a key is pressed...
+- [st-scrollback](https://st.suckless.org/patches/scrollback/) - Scrollback support
 - [purify theme](https://github.com/kyoz/purify/tree/master/st) - Make st look more vibrant xD
 
 ## Requirements
