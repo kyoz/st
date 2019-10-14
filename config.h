@@ -9,7 +9,7 @@ static char *font = "Iosevka Term:pixelsize=24:antialias=true:autohint=true";
 
 /* options to disable bold, italic and roman fonts globally */
 int disablebold = 1;
-int disableitalic = 1;
+int disableitalic = 0;
 int disableroman = 1;
 
 static int borderpx = 2;
