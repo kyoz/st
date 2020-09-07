@@ -5,7 +5,7 @@
 Base on [st-0.8.4](https://dl.suckless.org/st/st-0.8.4.tar.gz) version.
 
 Patchs:
-  - None
+  - [alpha](https://st.suckless.org/patches/alpha/st-alpha-0.8.2.diff) - Terminal Opacity. Require X composite manager (e.g. compton, xcompmgr)
 
 ## Requirements
 
