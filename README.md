@@ -14,11 +14,9 @@ In order to build st you need the Xlib header files.
 
 ## Installation
 
-Edit config.mk to match your local setup (st is installed into
-the /usr/local namespace by default).
+Edit config.mk to match your local setup (st is installed into the /usr/local namespace by default).
 
-Afterwards enter the following command to build and install st (if
-necessary as root):
+Afterwards enter the following command to build and install st (if necessary as root):
 
 ```
 make clean install
@@ -26,8 +24,7 @@ make clean install
 
 ## Running
 
-If you did not install st with make clean install, you must compile
-the st terminfo entry with the following command:
+If you did not install st with make clean install, you must compile the st terminfo entry with the following command:
 
 ```
 tic -sx st.info
