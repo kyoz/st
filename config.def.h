@@ -92,35 +92,34 @@ char *termname = "st-256color";
  *	stty tabs
  */
 unsigned int tabspaces = 4;
-float alpha = 0.58, alphaUnfocused = 0.18;
+float alpha = 0.54, alphaUnfocused = 0.92;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
-	/* 8 normal colors */
-	"black",
-	"red3",
-	"green3",
-	"yellow3",
-	"blue2",
-	"magenta3",
-	"cyan3",
-	"gray90",
+  /* 8 normal colors */
+  "#282C34", /* Black */
+  "#FF6059", /* Red */
+  "#5FFF87", /* Green */
+  "#FFFF87", /* Yellow */
+  "#5FAFFF", /* Blue */
+  "#AF87FF", /* Magenta */
+  "#5FAFFF", /* Cyan */
+  "#FAFAFA", /* White */
+  /* 8 bright colors */
+  "#282C34", /* Black */
+  "#FF6059", /* Red */
+  "#5FFF87", /* Green */
+  "#FFFF87", /* Yellow */
+  "#5FAFFF", /* Blue */
+  "#AF87FF", /* Magenta */
+  "#5FAFFF", /* Cyan */
+  "#FAFAFA", /* White */
 
-	/* 8 bright colors */
-	"gray50",
-	"red",
-	"green",
-	"yellow",
-	"#5c5cff",
-	"magenta",
-	"cyan",
-	"white",
+  [255] = 0,
 
-	[255] = 0,
-
-	/* more colors can be added after 255 to use with DefaultXX */
-	"#cccccc",
-	"#555555",
+  /* more colors can be added after 255 to use with DefaultXX */
+  "#FAFAFA", /* 256: Foreground */
+  "#252834", /* 257: Background */
   "black"
 };
 
