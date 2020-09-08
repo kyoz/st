@@ -5,7 +5,8 @@
 Base on [st-0.8.4](https://dl.suckless.org/st/st-0.8.4.tar.gz) version.
 
 Patchs:
-  - [alpha](https://st.suckless.org/patches/alpha/st-alpha-0.8.2.diff) - Terminal Opacity. Require X composite manager (e.g. compton, xcompmgr)
+  - [alpha-0.8.2](https://st.suckless.org/patches/alpha/) - Terminal Opacity. Require X composite manager (e.g. compton, xcompmgr)
+  - [alpha-focus-highlight-0.8.3](https://st.suckless.org/patches/alpha_focus_highlight/) - Different color, opacity for focus, unfocus windows
 
 ## Requirements
 
