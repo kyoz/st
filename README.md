@@ -7,6 +7,7 @@ Base on [st-0.8.4](https://dl.suckless.org/st/st-0.8.4.tar.gz) version.
 Patchs:
   - [purify theme](https://github.com/kyoz/purify) - Clean & vibrant color schemes for Vim, Terminals..
   - [alpha-0.8.2](https://st.suckless.org/patches/alpha/) - Terminal Opacity. Require X composite manager (e.g. compton, xcompmgr)
+  - [anysize-0.8.1](https://st.suckless.org/patches/anysize/) - Allow st to resize to any pixel size
 
 ## Requirements
 
