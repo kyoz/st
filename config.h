@@ -205,6 +205,8 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_V,           clippaste,      {.i =  0} },
 	{ TERMMOD,              XK_Y,           selpaste,       {.i =  0} },
   { TERMMOD,              XK_L,           copyurl,        {.i =  0} },
+  { TERMMOD,              XK_J,           kscrollup,      {.i = -1} },
+  { TERMMOD,              XK_K,           kscrolldown,    {.i = -1} },
 };
 
 /*

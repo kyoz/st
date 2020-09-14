@@ -9,9 +9,10 @@ Patchs:
   - [alpha-0.8.2](https://st.suckless.org/patches/alpha/) - Terminal Opacity. Require X composite manager (e.g. compton, xcompmgr)
   - [anysize-0.8.1](https://st.suckless.org/patches/anysize/) - Allow st to resize to any pixel size
   - [clipboard-0.8.3](https://st.suckless.org/patches/clipboard/) - Set CLIPBOARD on selection
-  - [copy-url-0.8.1](https://st.suckless.org/patches/copyurl/) - Copy lastest URL printed with Mod + Shift + L (Can use multiple time to get olded printed URL)
+  - [copy-url-0.8.1](https://st.suckless.org/patches/copyurl/) - Copy lastest URL printed with Ctrl + Shift + L (Can use multiple time to get olded printed URL)
   - [disable-bold-italic-0.8.2](https://st.suckless.org/patches/disable_bold_italic_fonts/) - Allow disable bold/italic globally
   - [ligatures-0.8.3](https://st.suckless.org/patches/ligatures/) - Ligatures support
+  - [scrollback-0.8.2](https://st.suckless.org/patches/scrollback/) - Scrollback support with Ctrl + Shift + J (or K)
 
 ## Requirements
 
